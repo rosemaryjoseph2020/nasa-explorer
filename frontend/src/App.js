@@ -10,8 +10,9 @@ function App() {
     <div className="container">
       <header className="header">
         <h1>NASA Space Explorer</h1>
-        <p>Discover the wonders of space through NASA's data</p>
+        <p>Discover the wonders of space through NASA's data now</p>
       </header>
+
 
       <nav className="nav">
         <button 
