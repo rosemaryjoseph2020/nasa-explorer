@@ -9,6 +9,9 @@ A web application that showcases NASA's space data through an interactive React 
 - **Near Earth Objects**: Track asteroids and comets approaching Earth today
 
 ## Setup Instructions
+### Prerequisites
+npm version: 10.9.2
+node version: v22.16.0
 
 ### Backend Setup
 
